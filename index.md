@@ -6,3 +6,6 @@ short
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Get my groceries
+- [ ] Do my laundry
